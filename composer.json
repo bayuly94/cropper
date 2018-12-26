@@ -1,4 +1,5 @@
 {
+    "version": "1.0.0",
     "name": "bayuly94/laravel-admin-ext-cropper",
     "description": "Integrate Cropper into laravel-admin with Translation to English",
     "type": "library",
